@@ -1,0 +1,22 @@
+{
+  "name": "serachdata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "i": "^0.3.6",
+    "npm": "^6.4.1"
+  },
+  "dependencies": {
+    "sqlite3": "^4.0.4"
+  }
+}
